@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Molly M. James
+![pronouns](https://img.shields.io/static/v1?label=pronouns&message=she/her&color=red&style=flat-square)
+[![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0003-2385-743X&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0003-2385-743X)
+[![Twitter](https://img.shields.io/static/v1?label=&message=Twitter&color=gray&style=flat-square&logo=twitter)](https://twitter.com/tidalmocean)
 
 <!--
 **mollyjames/mollyjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
